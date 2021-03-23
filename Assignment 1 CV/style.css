@@ -1,0 +1,37 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+#top{
+    text-align: center;
+    background-color: skyblue;
+}
+#info1{
+   text-align: center;
+    background-color:thistle;
+    color:black;
+ }
+#info{
+   
+   background-color:palegreen;
+   color:black;
+}
+#edu{
+   
+    background-color: skyblue;
+}
+.info{
+   
+    background-color:palegreen;
+    color:black;
+ }
+ .edu{
+    
+     background-color: skyblue;
+ }
+ 
+
+#qt{
+    background-color: blanchedalmond;
+}
