@@ -1,0 +1,267 @@
+*{
+    padding:0%;
+    margin:0%;
+}
+#top{
+    height:100px;
+    width:100%;
+    background-color: black;
+    color: whitesmoke;
+    font-family: "Courier New";
+}
+#top_left{
+    width:30%;
+    float:left;
+    height:100%;
+}
+#top_right{
+    width:40%;
+    float:left;
+    height: 100%;
+    padding-left: 3%;
+}
+#top_image{
+    margin-top:4%;
+    width:23%;
+    float:right;
+    height:170px;
+    border:4px solid red;
+    border-radius: 50%;
+    background-image: url("images/dp.jpg");
+    background-repeat: round;
+    /* height: 100%; */
+}
+.gap{
+    padding-left:2px;
+    padding-right: 2px;
+}
+#detail{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#name_of{
+    padding-top:2.5%;
+    font-size: 25px;
+    margin-left: 35px;
+    font-weight: bolder;
+}
+#address{
+    margin-top:3%;
+    margin-left:60px;
+    padding-top:3px;
+}
+#dob{
+    padding-top: 45px;
+    padding-left:10px
+}
+#profile{
+
+    
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 96%;
+    margin: 2px auto;
+    margin-top: 6px;
+    background-color:lightgrey;
+    text-align: center;
+    color: black;
+    font-family: "times New Roman";
+    font-weight: bolder;
+}
+#detail{
+    padding-left: 5%;
+}
+#education{
+
+    
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 96%;
+    margin: 2px auto;
+    margin-top: 6px;
+    background-color:lightgrey;
+    text-align: center;
+    color: black;
+    font-family: "times New Roman";
+    font-weight: bolder;
+}
+#university{
+    padding-left: 5%;
+}
+#experience{
+
+    
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 96%;
+    margin: 2px auto;
+    margin-top: 6px;
+    background-color:lightgrey;
+    text-align: center;
+    color: black;
+    font-family: "times New Roman";
+    font-weight: bolder;
+}
+#job{
+    padding-left: 5%;
+}
+#double_first{
+    height:100px;
+}
+#double_second{
+    height:100px;
+}
+#double_third{
+    height:100px;
+}
+#seventh{
+    width: 49.5%;
+    height:100px;
+    float: left;
+
+}
+#seventh_one_first{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 96%;
+    margin: 2px auto;
+    margin-top: 6px;
+    background-color:lightgrey;
+    text-align: center;
+    color: black;
+    font-family: "times New Roman";
+    font-weight: bolder;
+}
+#seventh_one_second{
+   padding-top:2%;
+
+    padding-left: 5%;
+}
+#eightheth{
+    width: 49.5%;
+    height:100px;
+    float: right;
+}
+#eightheth_one_first{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 96%;
+    margin: 2px auto;
+    margin-top: 6px;
+    background-color:lightgrey;
+    text-align: center;
+    color: black;
+    font-family: "times New Roman";
+    font-weight: bolder;
+}
+#eightheth_one_second{
+   padding-top:2%;
+   
+    padding-left: 5%;
+}
+#fifth{
+    width: 49.5%;
+    height:100px;
+    float: left;
+}
+#fifth_one_first{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 96%;
+    margin: 2px auto;
+    margin-top: 6px;
+    background-color:lightgrey;
+    text-align: center;
+    color: black;
+    font-family: "times New Roman";
+    font-weight: bolder;
+}
+#fifth_one_second{
+   padding-top:2%;
+
+    padding-left: 5%;
+}
+#sixth{
+    width: 49.5%;
+    height:100px;
+    float: right;
+}
+#sixth_one_first{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 96%;
+    margin: 2px auto;
+    margin-top: 6px;
+    background-color:lightgrey;
+    text-align: center;
+    color: black;
+    font-family: "times New Roman";
+    font-weight: bolder;
+}
+#sixth_one_second{
+   padding-top:2%;
+   
+    padding-left: 5%;
+    
+}
+
+#ninth{
+    width: 49.5%;
+    height:100px;
+    float: left;
+}
+#ninth_one_first{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 96%;
+    margin: 2px auto;
+    margin-top: 6px;
+    background-color:lightgrey;
+    text-align: center;
+    color: black;
+    font-family: "times New Roman";
+    font-weight: bolder;
+}
+#ninth_one_second{
+   padding-top:2%;
+
+    padding-left: 5%;
+    text-align: center;
+   
+}
+.pic{
+    padding:5px;
+}
+#tenth{
+    width: 49.5%;
+    height:100px;
+    float: right;
+}
+
+
+
+#tenth_one_first{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 96%;
+    margin: 2px auto;
+    margin-top: 6px;
+    background-color:lightgrey;
+    text-align: center;
+    color: black;
+    font-family: "times New Roman";
+    font-weight: bolder;
+}
+#tenth_one_second{
+   padding-top:2%;
+    padding-left: 5%;
+}
+#bottom{
+    text-align: center;
+    padding-top:2%;
+    margin-top:1px;
+    height:60px;
+    width: 100%;
+    background-color: black;
+    color: whitesmoke;
+}
